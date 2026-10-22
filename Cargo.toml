@@ -1,0 +1,10 @@
+[package]
+name = "evo_sim"
+version = "0.1.0"
+edition = "2024"
+default-run = "evo_sim"
+
+[dependencies]
+macroquad = "0.4"
+serde = { version = "1.0.229", features = ["derive"] }
+serde-saphyr = "2.0.0"

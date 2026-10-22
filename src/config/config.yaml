@@ -1,0 +1,5 @@
+general:
+  grid_w: 120
+  grid_h: 120
+  csize: 128.0
+  hist: 400
